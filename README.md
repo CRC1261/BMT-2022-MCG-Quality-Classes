@@ -1,6 +1,6 @@
 # BMT-2022-MCG-Quality-Classes
 
-The official repository for the Paper "Towards Analytically Computable Quality Classes for MCG Sensor Systems"
+The official repository for the Paper "Towards Analytically Computable Quality Classes for MCG Sensor Systems" (https://doi.org/10.1515/cdbme-2022-1176).
 
 The _figures_ folder contains all signals pairs evaluated by the cardiologists.
 
